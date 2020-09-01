@@ -1,4 +1,4 @@
-# Hi, I'm Juan<img src="./static/img/logo.svg" alt="Juancxh" height="15">h
+# Hi, I'm Juan<img src="logo.svg" alt="Juancxh" height="15rem">h
 
 Here are some ideas to get you started:
 

@@ -1,4 +1,4 @@
-# Hi, I'm Juan <img src="https://github.com/Juancxh/Juancxh/blob/master/static/img/logo.svg" height="15rem" alt="Juancxh">
+# Hi, I'm Juan <img src="https://github.com/Juancxh/Juancxh/blob/master/static/img/logo.svg" height="18" alt="Juancxh">
 
 <!--
 **Juancxh/Juancxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

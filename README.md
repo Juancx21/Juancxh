@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Juancxh/Juancxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Juan<img src="./static/img/logo.svg" alt="Juancxh" height="15">h
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
